@@ -1,2 +1,2 @@
 # itil_qq_control_ui
-web开发中使用到的web控件的中文文档
+web开发中使用到的web控件的中文文档以及用到web控件的例子的积累
